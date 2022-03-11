@@ -1,4 +1,6 @@
+const sleep=require("sleep")
 
-def myname="vinoth"
+
+var myname="vinoth"
 
 console.log("Hi, I am "+myname)
